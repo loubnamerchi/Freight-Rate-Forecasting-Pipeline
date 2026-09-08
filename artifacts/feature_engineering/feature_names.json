@@ -1,0 +1,18 @@
+[
+  "pickup",
+  "delivery",
+  "pickup_lat",
+  "pickup_lon",
+  "delivery_lat",
+  "delivery_lon",
+  "weight",
+  "market_index",
+  "quote_signal",
+  "year",
+  "month",
+  "day_of_week",
+  "is_weekend",
+  "distance_log",
+  "equipment_Flatbed",
+  "equipment_Reefer"
+]

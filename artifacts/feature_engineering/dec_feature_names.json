@@ -1,0 +1,12 @@
+[
+  "pickup",
+  "delivery",
+  "weight",
+  "year",
+  "month",
+  "day_of_week",
+  "is_weekend",
+  "distance_log",
+  "equipment_Flatbed",
+  "equipment_Reefer"
+]
